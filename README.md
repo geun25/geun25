@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Geun's&fontSize=70)
+
 <div align=center>
 
 ### :wink:Me
