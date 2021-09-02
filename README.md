@@ -5,6 +5,8 @@
 ### :muscle:Languages & Platform
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C120?style=flat-square&logo=cplusplus&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visual studio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual studio code&logoColor=white"/></a>
