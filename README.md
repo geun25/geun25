@@ -9,7 +9,7 @@
 ### :muscle:Languages & Platform
 
 <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visual studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual studio code&logoColor=white"/></a>
